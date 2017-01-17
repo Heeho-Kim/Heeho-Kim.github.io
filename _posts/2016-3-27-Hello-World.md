@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hello World
+title: ABC
 ---
 
-'''java
-string 
-'''
+```c
+printf("abc");
+```
